@@ -15,7 +15,7 @@ namespace shoppingWebAPI_NET5.Controllers
         [HttpGet]
         public IEnumerable<WeatherForecast> Get()
         {
-            var rng = RandomNumberGenerator.GetInt32(-20, 55);
+            var rng = RandomNumberGenerator.GetInt32(-10, 55);
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast
             {
                 Date = DateTime.Now.AddDays(index),
