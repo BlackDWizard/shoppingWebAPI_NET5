@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace shoppingWebAPI_NET5
 {
-    public class Program
+    public static class Program
     {
         public static void Main(string[] args)
         {
