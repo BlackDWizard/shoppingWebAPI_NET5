@@ -1,0 +1,11 @@
+﻿D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\Controllers\WeatherForecastController.cs
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\Program.cs
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\Startup.cs
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\WeatherForecast.cs
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\obj\Debug\net5.0\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\obj\Debug\net5.0\shoppingWebAPI_NET5.AssemblyInfo.cs
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\obj\Debug\net5.0\shoppingWebAPI_NET5.MvcApplicationPartsAssemblyInfo.cs
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\appsettings.Development.json
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\appsettings.json
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\Properties\launchSettings.json
+D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\obj\Debug\net5.0\apphost.exe
