@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
-  <AnalysisConfigPath>D:\SideProject\Backend\shoppingWebAPI_NET5\.sonarqube\conf\SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
-  <ProjectPath>D:\SideProject\Backend\shoppingWebAPI_NET5\shoppingWebAPI_NET5\shoppingWebAPI_NET5.csproj</ProjectPath>
-  <FilesToAnalyzePath>D:\SideProject\Backend\shoppingWebAPI_NET5\.sonarqube\conf\0\FilesToAnalyze.txt</FilesToAnalyzePath>
-  <OutPath>D:\SideProject\Backend\shoppingWebAPI_NET5\.sonarqube\out\0</OutPath>
-  <ProjectType>Product</ProjectType>
-  <TargetFramework>net5.0</TargetFramework>
-</SonarProjectConfig>

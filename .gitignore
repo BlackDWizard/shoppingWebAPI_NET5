@@ -1,0 +1,4 @@
+/.sonarqube
+/ShoppingWebAPI/bin
+/ShoppingWebAPI/obj
+/.vs
