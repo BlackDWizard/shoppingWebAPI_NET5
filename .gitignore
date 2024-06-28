@@ -1,4 +1,8 @@
 /.sonarqube
-/ShoppingWebAPI/bin
-/ShoppingWebAPI/obj
+/ShoppingWebAPI_NET5/bin
+/ShoppingWebAPI_NET5/obj
+/ShoppingWebAPI_NET5Tests/bin
+/ShoppingWebAPI_NET5Tests/obj
+/UnitTest/bin
+/UnitTest/obj
 /.vs
